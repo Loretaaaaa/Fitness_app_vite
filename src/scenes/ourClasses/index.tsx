@@ -38,7 +38,7 @@ const classes: Array<ClassType> = [
   },
   {
     name: "Training Classes",
-    description: "ake your fitness to the next level with our Training Classes. Guided by knowledgeable instructors, these sessions provide targeted training to enhance your endurance, agility, and overall performance. Join us for a transformative training experience designed to unlock your full potential.",
+    description: "Take your fitness to the next level with our Training Classes. Guided by knowledgeable instructors, these sessions provide targeted training to enhance your endurance, agility, and overall performance. Join us for a transformative training experience designed to unlock your full potential.",
     image: image6,
   },
 ]
